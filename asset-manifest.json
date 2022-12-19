@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Full-Stack-blog-App/static/css/main.25832fce.css",
+    "main.js": "/React_Full-Stack-blog-App/static/js/main.79e5dd9a.js",
+    "index.html": "/React_Full-Stack-blog-App/index.html",
+    "main.25832fce.css.map": "/React_Full-Stack-blog-App/static/css/main.25832fce.css.map",
+    "main.79e5dd9a.js.map": "/React_Full-Stack-blog-App/static/js/main.79e5dd9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25832fce.css",
+    "static/js/main.79e5dd9a.js"
+  ]
+}
